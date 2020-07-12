@@ -43,4 +43,5 @@ Preset 10 to 12 differ just by the faders channels, so one can control more than
 
 ## THANKS
 Mokita on kvraudio.com for java version tip.
+
 Danger on resolume.com forums for the inital resolume preset.
